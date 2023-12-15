@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(215, 250, 221);
+    background-color: rgb(220, 196, 221);
     margin: 0;
     padding: 0;
 }
@@ -33,6 +33,7 @@ body {
 
 .navbar a:hover {
     background-color: #ddd;
+    transition-duration: 4ms;
     color: black;
 }
 
